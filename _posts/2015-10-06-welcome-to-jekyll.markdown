@@ -2,7 +2,7 @@
 layout: post
 title:  "图片1"
 date:   2015-10-06 15:39:40
-preview: '/imgs/001.jpg
+preview: /imgs/001.jpg
 ---
 
 ![Picture 1](/imgs/001.jpg)
