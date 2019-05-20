@@ -1,10 +1,15 @@
 ---
 layout: post
-title:  "图片二"
-date:   2019-5-07 15:39:40
-preview: /imgs/001.jpg
+title:  傅抱石
+date:   2019-04-16 15:39:40
+preview: https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37xgt8a1jg30ev0akaea.jpg
 ---
 
-![Picture 1](/imgs/001.jpg)
+![](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37xgt8a1jg30ev0akaea.jpg)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+傅抱石（1904年10月5日—1965年9月29日），原名长生、瑞麟，号抱石斋主人，生于江西南昌，祖籍江西新余，现代画家，“新山水画”代表画家 。早年留学日本，回国后执教于中央大学。1949年后曾任南京师范学院教授、江苏国画院院长等职。
+考察了傅抱石留日期间创作的和归国后摹仿日本画家的人物故事画之后，并不能以充分实证的方式确认其对日本历史画直接的仿摹与复写。 
+他擅画山水，中年创为“抱石皴”，笔致放逸，气势豪放，尤擅作泉瀑雨雾之景；晚年多作大幅，气魄雄健，具有强烈的时代感。人物画多作仕女、高士，形象高古。著有《中国古代绘画之研究》《中国绘画变迁史纲》等。
+
+
+![](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37xhgrucjg30dd0aiq6l.jpg)

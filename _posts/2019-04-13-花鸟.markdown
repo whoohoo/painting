@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-10-09 15:39:40
-preview: http://placehold.it/300x300
+title:  "花鸟画"
+date:   2019-04-13 15:39:40
+preview: https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37ws54xgnj30qr0qsgqq.jpg
 ---
 
-![Picture 1](http://placehold.it/800x600)
+![师行坤](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37ws54xgnj30qr0qsgqq.jpg)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+花鸟画，是中国画的一种，以花、鸟、虫等为描绘对象的画。在中国画中，凡以花卉、花鸟、鱼虫等为描绘对象的画，称之为花鸟画。花鸟画中的画法中有“工笔”、“写意”、“兼工带写”三种。
+工笔花鸟画即用浓、淡墨勾勒对象，再深浅分层次着色；写意花鸟画即用简练概括的手法绘写对象；介于工笔和写意之间的就称为兼工带写，形态逼真。
+
+![牡丹](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37wv8lsl1j30sg0lcaco.jpg)
