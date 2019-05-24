@@ -12,4 +12,4 @@ preview: https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37xchrw23j30ku0g677u.
 齐白石书工篆隶，取法于秦汉碑版，行书饶古拙之趣，篆刻自成一家，善写诗文。曾任中央美术学院名誉教授、中国美术家协会主席等职。代表作有《蛙声十里出山泉》《墨虾》等。著有《白石诗草》《白石老人自述》等。
 
 ![](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37xevyurdj30ib0dw472.jpg){:height="50%" width="50%"}
-![](https://github.com/whoohoo/painting/blob/master/imgs/chg.jpg)
+
