@@ -5,9 +5,9 @@ date:   2019-04-18 15:39:40
 preview: https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37wx2xb4wj30go0csgmm.jpg
 ---
 
-![白伯骅](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37wx2xb4wj30go0csgmm.jpg)
+![白伯骅](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37wx2xb4wj30go0csgmm.jpg){:height="50%" width="50%"}
 
 以人物形象为主体的绘画之通称。中国的人物画，简称“人物”，是中国画中的一大画科，出现较山水画、花鸟画等为早；大体分为道释画、仕女画、肖像画、风俗画、历史故事画等。人物画力求人物个性刻画得逼真传神，气韵生动、形神兼备。其传神之法，常把对人物性格的表现，寓于环境、气氛、身段和动态的渲染之中。故中国画论上又称人物画为“传神”。历代著名人物画有东晋顾恺之的《洛神赋图》卷，五代南唐顾闳中的《韩熙载夜宴图》，北宋李公麟的《维摩诘像》，南宋李唐的《采薇图》等。
 
 
-![王锡麒](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37wzq1bqaj313l0t6gqb.jpg)
+![王锡麒](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37wzq1bqaj313l0t6gqb.jpg){:height="50%" width="50%"}

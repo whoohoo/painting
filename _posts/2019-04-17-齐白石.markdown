@@ -11,4 +11,5 @@ preview: https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37xchrw23j30ku0g677u.
 早年曾为木工，后以卖画为生，五十七岁后定居北京。擅画花鸟、虫鱼、山水、人物，笔墨雄浑滋润，色彩浓艳明快，造型简练生动，意境淳厚朴实。所作鱼虾虫蟹，天趣横生。
 齐白石书工篆隶，取法于秦汉碑版，行书饶古拙之趣，篆刻自成一家，善写诗文。曾任中央美术学院名誉教授、中国美术家协会主席等职。代表作有《蛙声十里出山泉》《墨虾》等。著有《白石诗草》《白石老人自述》等。
 
-![](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37xevyurdj30ib0dw472.jpg)
+![](https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g37xevyurdj30ib0dw472.jpg){:height="50%" width="50%"}
+！[](https://github.com/whoohoo/painting/blob/master/imgs/chg.jpg)
